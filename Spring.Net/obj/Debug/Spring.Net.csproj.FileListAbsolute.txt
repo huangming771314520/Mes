@@ -24,3 +24,16 @@ D:\Hbms.Mes[20190611]\Hbms.Mes\Spring.Net\obj\Debug\Spring.Net.csproj.CoreCompil
 D:\Hbms.Mes[20190611]\Hbms.Mes\Spring.Net\obj\Debug\Spring.Net.csproj.CopyComplete
 D:\Hbms.Mes[20190611]\Hbms.Mes\Spring.Net\obj\Debug\Spring.Net.exe
 D:\Hbms.Mes[20190611]\Hbms.Mes\Spring.Net\obj\Debug\Spring.Net.pdb
+E:\海兽Mes\Mes\Spring.Net\bin\Debug\config\service.xml
+E:\海兽Mes\Mes\Spring.Net\bin\Debug\Spring.Net.exe.config
+E:\海兽Mes\Mes\Spring.Net\bin\Debug\Spring.Net.exe
+E:\海兽Mes\Mes\Spring.Net\bin\Debug\Spring.Net.pdb
+E:\海兽Mes\Mes\Spring.Net\bin\Debug\Common.Logging.dll
+E:\海兽Mes\Mes\Spring.Net\bin\Debug\Spring.Core.dll
+E:\海兽Mes\Mes\Spring.Net\bin\Debug\Spring.Core.pdb
+E:\海兽Mes\Mes\Spring.Net\bin\Debug\Spring.Core.xml
+E:\海兽Mes\Mes\Spring.Net\obj\Debug\Spring.Net.csprojResolveAssemblyReference.cache
+E:\海兽Mes\Mes\Spring.Net\obj\Debug\Spring.Net.csproj.CoreCompileInputs.cache
+E:\海兽Mes\Mes\Spring.Net\obj\Debug\Spring.Net.csproj.CopyComplete
+E:\海兽Mes\Mes\Spring.Net\obj\Debug\Spring.Net.exe
+E:\海兽Mes\Mes\Spring.Net\obj\Debug\Spring.Net.pdb

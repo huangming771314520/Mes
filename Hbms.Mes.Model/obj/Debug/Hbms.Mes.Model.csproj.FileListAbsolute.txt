@@ -39,3 +39,17 @@ D:\Hbms.Mes[20190611]\Hbms.Mes\Hbms.Mes.Model\obj\Debug\Hbms.Mes.Model.csproj.Co
 D:\Hbms.Mes[20190611]\Hbms.Mes\Hbms.Mes.Model\obj\Debug\Hbms.Mes.Model.csproj.CopyComplete
 D:\Hbms.Mes[20190611]\Hbms.Mes\Hbms.Mes.Model\obj\Debug\Hbms.Mes.Model.dll
 D:\Hbms.Mes[20190611]\Hbms.Mes\Hbms.Mes.Model\obj\Debug\Hbms.Mes.Model.pdb
+E:\海兽Mes\Mes\Hbms.Mes.Model\bin\Debug\Hbms.Mes.Model.dll.config
+E:\海兽Mes\Mes\Hbms.Mes.Model\bin\Debug\Hbms.Mes.Model.dll
+E:\海兽Mes\Mes\Hbms.Mes.Model\bin\Debug\Hbms.Mes.Model.pdb
+E:\海兽Mes\Mes\Hbms.Mes.Model\bin\Debug\EntityFramework.dll
+E:\海兽Mes\Mes\Hbms.Mes.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\海兽Mes\Mes\Hbms.Mes.Model\bin\Debug\EntityFramework.xml
+E:\海兽Mes\Mes\Hbms.Mes.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\海兽Mes\Mes\Hbms.Mes.Model\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\海兽Mes\Mes\Hbms.Mes.Model\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\海兽Mes\Mes\Hbms.Mes.Model\obj\Debug\Hbms.Mes.Model.csprojResolveAssemblyReference.cache
+E:\海兽Mes\Mes\Hbms.Mes.Model\obj\Debug\Hbms.Mes.Model.csproj.CoreCompileInputs.cache
+E:\海兽Mes\Mes\Hbms.Mes.Model\obj\Debug\Hbms.Mes.Model.csproj.CopyComplete
+E:\海兽Mes\Mes\Hbms.Mes.Model\obj\Debug\Hbms.Mes.Model.dll
+E:\海兽Mes\Mes\Hbms.Mes.Model\obj\Debug\Hbms.Mes.Model.pdb
