@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--object的name可以自定义，property中的属性name不能自定义-->
+
+<objects>
+  <!--创建SYS_BOMService的实例-->
+  <object name="JQueryGanttService" type="Hbms.Mes.BLL.JQueryGanttService,Hbms.Mes.BLL" singleton="false"></object>
+
+  <!--创建MemCacheHelper的实例-->
+  <!--<object name="MemCacheHelper" type="Hbms.Mes.Common.MemCacheHelper,Hbms.Mes.Common" singleton="false"></object>-->
+</objects>
