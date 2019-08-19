@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs" Space="C-S">
+  <Alias Key="Model" Value="Mes" />
+  <Alias Key="Target" Value="Mes.Store" />
+  <EntityContainerMapping CdmEntityContainer="MesContainer" StorageEntityContainer="MesStoreContainer">
+    <EntitySetMapping Name="MK_App_DTImg">
+      <EntityTypeMapping TypeName="Mes.MK_App_DTImg">
+        <MappingFragment StoreEntitySet="MK_App_DTImg">
+          <ScalarProperty Name="F_SortCode" ColumnName="F_SortCode" />
+          <ScalarProperty Name="F_EnabledMark" ColumnName="F_EnabledMark" />
+          <ScalarProperty Name="F_FileName" ColumnName="F_FileName" />
+          <ScalarProperty Name="F_Des" ColumnName="F_Des" />
+          <ScalarProperty Name="F_Id" ColumnName="F_Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="JQueryGantt">
+      <EntityTypeMapping TypeName="Mes.JQueryGantt">
+        <MappingFragment StoreEntitySet="JQueryGantt">
+          <ScalarProperty Name="assigs" ColumnName="assigs" />
+          <ScalarProperty Name="hasChild" ColumnName="hasChild" />
+          <ScalarProperty Name="collapsed" ColumnName="collapsed" />
+          <ScalarProperty Name="endIsMilestone" ColumnName="endIsMilestone" />
+          <ScalarProperty Name="startIsMilestone" ColumnName="startIsMilestone" />
+          <ScalarProperty Name="end" ColumnName="end" />
+          <ScalarProperty Name="duration" ColumnName="duration" />
+          <ScalarProperty Name="start" ColumnName="start" />
+          <ScalarProperty Name="canWrite" ColumnName="canWrite" />
+          <ScalarProperty Name="depends" ColumnName="depends" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="level" ColumnName="level" />
+          <ScalarProperty Name="code" ColumnName="code" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="typeId" ColumnName="typeId" />
+          <ScalarProperty Name="type" ColumnName="type" />
+          <ScalarProperty Name="relevance" ColumnName="relevance" />
+          <ScalarProperty Name="progressByWorklog" ColumnName="progressByWorklog" />
+          <ScalarProperty Name="progress" ColumnName="progress" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
